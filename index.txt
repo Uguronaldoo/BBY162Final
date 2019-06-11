@@ -1,0 +1,10 @@
+"eser adi": "Yansýtýcý düþünme : beden eðitimi ve sporda","yazar": "Dervent, Fatih", "yayýmcý": "Spor Kitabevi ve Yayýnevi","yayýmyýlý": "2014","ISBN": "9789944379519"
+"eseradý": "Spor bilimlerine giriþ","yazar": "Mirzeoðlu, Nevzat","yayýmcý": "spor yayýnevi ve kitabevi","yayýmyýlý": "2017","ISBN": "9789944379878"
+"eseradý": "Türk sporunda sorunlar ve çözüm önerileri","yazar": "Ak, Ahmet","yayýmcý": "Spor Kitabevi ve Yayýnevi","yayýmyýlý": "2017","ISBN": "9789944379809"
+"eseradý": "The feminization of sports fandom : a sociological study","yazar": "Pope, Stacey","yayýmcý": "Routledge, Taylor & Francis Group","yayýmyýlý": "2017","ISBN": "9781138916081"
+"eseradý": "Uyarlanmýþ beden eðitimi ve spor","yazar": "Yararcan, Muhlis","yayýmcý": "Ekin kitap","yayýmyýlý": "[t.y.]","ISBN": "9780736033244"
+"eseradý": "Spor ve beslenme : antrenör ve sporcu el kitabý","yazar": "Güneþ, Ziyanur","yayýmcý": "Nobel","yayýmyýlý": "2017","ISBN": "9786051333793"
+"eseradý": "Spor psikolojisi","yazar": "Karageorghis, Costas","yayýmcý": "Nobel Akademik Yayýncýlýk","yayýmyýlý": "2017","ISBN": "9786053200659"
+"eseradý": "Spor ekonomisi","yazar": "Leeds, Michael","yayýmcý": "Palme Yayýncýlýk","yayýmyýlý": "2017","ISBN": "9786053557852"
+"eseradý": "Sporcularýn Kiþilik Özellikleri ile Sportif Performans Ýliþkisi","yazar": "Çon, Musa","yayýmcý": "Spor Yayýnevi ve Kitabevi","yayýmyýlý": "2017","ISBN": "9789944379823"
+"eseradý": "Spor sosyolojisi","yazar": "Çakýr, Veli Ozan","yayýmcý": "Spor Yayýnevi ve Kitabevi","yayýmyýlý": "2017","ISBN": "9789944379830"fesdf:sdfsd,sdfsd
